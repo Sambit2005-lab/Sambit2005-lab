@@ -8,4 +8,4 @@ I also maintain and am an enthusiast for open-source software. I've gained a lot
 # any freelance work? do reach,email-pradhansambit2005@gmail.com
 --ask me about anything, i am happy to help;
 language and tools:
-java, kotlin, javascript, jet compose, c , c++ , git and github,spring boot 
+java, kotlin, jet compose, c , c++ , git and github,spring boot,spring security,spring jpa,hibernate
