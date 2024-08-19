@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sambit Pradhan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<image align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"
+<image align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"></image>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit2005-lab&label=Profile%20views&color=0e75b6&style=flat" alt="sambit2005-lab" /> </p>
 
