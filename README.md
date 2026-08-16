@@ -22,7 +22,7 @@ Founder & CEO at Code-X-Novas • Product Builder • Software Engineer • AI &
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am **Sambit Pradhan**, a technology entrepreneur, software engineer, and the **Founder & CEO of Code-X-Novas** — a product and service-based technology company focused on building practical solutions for real-world problems.
 
@@ -36,17 +36,17 @@ Alongside building products and working with clients, I continue to explore new 
 
 ---
 
-## 🚀 Code-X-Novas
+## Code-X-Novas
 
 **Code-X-Novas** is a product-driven technology company and innovation hub working across:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Web Applications & SaaS
-- 📱 Mobile Applications
-- 🎓 Education Technology
-- ☁️ Cloud & Backend Systems
-- 🎨 UI/UX & Product Design
-- 🧩 Custom Software Solutions
+-  Artificial Intelligence & Machine Learning
+-  Web Applications & SaaS
+-  Mobile Applications
+-  Education Technology
+-  Cloud & Backend Systems
+-  UI/UX & Product Design
+-  Custom Software Solutions
 
 ### Our Philosophy
 
@@ -56,15 +56,15 @@ We don't want to build technology just for the sake of building it.
 
 ---
 
-## 🏆 Highlights & Achievements
+## Highlights & Achievements
 
-- 🚀 Founder & CEO of **Code-X-Novas**
-- 🌍 Worked with clients across **India, USA & Dubai**
-- 📦 Delivered **100+ real-world projects**
-- 🏅 Recognized among **India's Top 75 Emerging Startups**
-- 🇮🇳 Represented India at **Dubai's AI Festival**
-- 🤝 Invited to join **Electronics and Computer Software Export Promotion Council (ESC)**
-- 💡 Building products across **AI, Education, Attendance & Community Technology**
+-  Founder & CEO of **Code-X-Novas**
+-  Worked with clients across **India, USA & Dubai**
+-  Delivered **100+ real-world projects**
+-  Recognized among **India's Top 75 Emerging Startups**
+-  Represented India at **Dubai's AI Festival**
+-  Invited to join **Electronics and Computer Software Export Promotion Council (ESC)**
+-  Building products across **AI, Education, Attendance & Community Technology**
 
 ---
 
@@ -159,13 +159,13 @@ Vrise Network is being built around interest-based communities, participation, e
 
 # 📌 What I'm Currently Focused On
 
-- 🚀 Building and scaling **Code-X-Novas**
-- 🎓 Developing **VidyaOS 360**
-- 🤖 Building AI-powered solutions through **SAS 360**
-- 🌐 Developing **Vrise Network**
-- 🧠 Exploring AI, automation and intelligent systems
-- 🌍 Building products with potential to scale from **India to global markets**
-- 👥 Working with teams, clients and developers to turn ideas into usable products
+-  Building and scaling **Code-X-Novas**
+-  Developing **VidyaOS 360**
+-  Building AI-powered solutions through **SAS 360**
+-  Developing **Vrise Network**
+-  Exploring AI, automation and intelligent systems
+-  Building products with potential to scale from **India to global markets**
+-  Working with teams, clients and developers to turn ideas into usable products
 
 ---
 
